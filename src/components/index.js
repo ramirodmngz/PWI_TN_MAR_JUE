@@ -1,4 +1,4 @@
-import WorkspaceList from "./workspacelist/workspacelist";
+import WorkspaceList from "./Workspacelist/workspacelist";
 import Workspaceitem from "./Workspaceitem/workspaceitem";
 
 export{
